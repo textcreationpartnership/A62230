@@ -1,0 +1,527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Summus angliæ seneschallus, or, A survey of the Lord High-Steward of England his office, dignity, and jurisdiction, particularly the manner of arraigning a peer indicted of treason, or felony : in a letter to the Lords in the Tower ...</title>
+            <author>Saunders, Edmund, Sir, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62230</idno>
+            <idno type="STC">Wing S745</idno>
+            <idno type="STC">ESTC R9936</idno>
+            <idno type="EEBO-CITATION">12385201</idno>
+            <idno type="OCLC">ocm 12385201</idno>
+            <idno type="VID">60828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 227:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Summus angliæ seneschallus, or, A survey of the Lord High-Steward of England his office, dignity, and jurisdiction, particularly the manner of arraigning a peer indicted of treason, or felony : in a letter to the Lords in the Tower ...</title>
+                  <author>Saunders, Edmund, Sir, d. 1683.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Ed. S.</note>
+                  <note>Written by Edmund Saunders. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Lord High Steward.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60828:1"/>
+            <pb facs="tcp:60828:1" rendition="simple:additions"/>
+            <p>
+               <hi>Summus Angliae Seneſchallus:</hi> OR, A SURVEY OF THE Lord High-ſteward OF ENGLAND, HIS Office, Dignity, and Juriſdiction; Particularly the manner of Arraigning a Peer INDICTED OF TREASON, or FELONY. In a Letter to the LORDS in the <hi>TOWER,</hi> with Re<g ref="char:EOLhyphen"/>ſolutions to certain QUERIES made by their Lord<g ref="char:EOLhyphen"/>ſhips, relating to Trayterous and Seditious Practices.</p>
+            <p>Written at their Lordſhips Requeſt.</p>
+            <p>
+               <hi>Funeſta Securis, Regni Securitas.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60828:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:60828:2"/>
+            <head>THE NATURE of the OFFICE OF A <hi>L. HIGH-STEWARD,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>I Shall not entertain your Lordſhips with any Preli<g ref="char:EOLhyphen"/>minary Diſcourſe, but preſently let you into the main Building. As the <hi>Royal Power</hi> and <hi>Soveraign<g ref="char:EOLhyphen"/>ty</hi> of the <hi>King</hi> of <hi>England</hi> is a repleat compacted Body, and impartible, even ſo the Attributes thereof are (as <hi>Juriſts</hi> ſpeaks) ſo indiviſible in themſelves, na<g ref="char:EOLhyphen"/>turally and intrinſecally inherent in the <hi>Crown,</hi> that they cannot be made away, or ſo communicated to the Subject, as to diveſt <hi>himſelf</hi> of them, to the leſſening <hi>Soveraign Majeſty,</hi> yet by Truſt, and Delegate Power, the Execution may be transferred to others, to eaſe him of a troubleſome burthen.</p>
+            <p>Now among thoſe ſeveral Miniſters, or Officers of Law, that are by his <hi>Moſt Excellent Majeſty</hi> ſubſtituted to eaſe him of labour, (but not to deprive him of Pow<g ref="char:EOLhyphen"/>er) the <hi>Lord High-Steward</hi> of <hi>England</hi> is one of the firſt Magnitude; the Nature of whoſe <hi>Office</hi> will the better be comprehended by your <hi>Lordſhips,</hi> if you vouchſafe to conſider the particulars following.</p>
+            <list>
+               <item>1. The Etymology of the words, (<hi>Steward</hi> and <hi>Se<g ref="char:EOLhyphen"/>neſchallus.</hi>)</item>
+               <pb n="4" facs="tcp:60828:3"/>
+               <item>2. His <hi>Lordſhips Stile,</hi> and the <hi>Antiquity of his Office.</hi>
+               </item>
+               <item>3. How this great Office was <hi>formerly holden,</hi> and <hi>how at this time.</hi>
+               </item>
+               <item>4. The <hi>Extent of his Juriſdiction and Power,</hi> and the <hi>Rules he ought to judge by.</hi>
+               </item>
+               <item>5. The <hi>Order and manner of Arraigning a Peer of the Realm</hi> before this <hi>Great Officer.</hi>
+               </item>
+            </list>
+            <p>For the derivation of the words <hi>Steward</hi> and <hi>Sene<g ref="char:EOLhyphen"/>ſchallus,</hi>
+               <note place="margin">Cok. Litt. <hi>61. a.</hi>
+               </note> ſome ſay the firſt is derived of <hi>Stewe, i. e.</hi> a Place, and <hi>Ward,</hi> which ſignifieth a Keeper, Warden, or Governour.</p>
+            <p>Others ſay that it comes from <hi>Steda,</hi> a <hi>Saxon</hi> word, which ſignifies a place alſo,<note place="margin">Lib. <hi>9.</hi> Le Counter de Salop<hi>'s Caſe. 48. b.</hi>
+               </note> and <hi>Ward,</hi> as it were the Keeper or Governour of that place: 'tis a word di<g ref="char:EOLhyphen"/>verſly uſed in this Kingdom; in the firſt acception, 'tis taken for the <hi>Lord High-Steward,</hi> out of which Magi<g ref="char:EOLhyphen"/>ſtracy, lower Officers have their riſe; as <hi>Seneſchal de l' Hoſtel de Roy,</hi> the <hi>Steward of the Kings moſt Honoura<g ref="char:EOLhyphen"/>ble Houſhold, Anno</hi> 24. <hi>H.</hi> 8. <hi>c.</hi> 13. whoſe Title was changed to that of <hi>Great Maſter,</hi>
+               <note place="margin">Plomd. Com. f. <hi>152.</hi>
+               </note> 
+               <hi>Anno</hi> 32. <hi>H.</hi> 8. <hi>c.</hi> 39. but this Stat. was repealed by that of 1 <hi>Mar.</hi> 2 <hi>Parl. c.</hi> 4. and the Office of the Lord Steward revived.</p>
+            <p>There is alſo a <hi>Steward of the Marſhalſea, Anno</hi> 33. <hi>H.</hi> 8. <hi>c.</hi> 12. and likewiſe a <hi>Steward of a Mannour,</hi>
+               <note place="margin">Lib. <hi>2.</hi> c. <hi>71.</hi>
+               </note> whom <hi>Fleta</hi> fully deſcribes. To be ſhort, this word is of ſo great diverſity, that there is no Corporation of any Ac<g ref="char:EOLhyphen"/>count, or Houſe of any Honour, through the Realm, but it ſhall have an Officer belonging to it of this Name.</p>
+            <p>But I proceed to the word <hi>Seneſchallus:</hi>
+            </p>
+            <p>
+               <hi>Seneſchal</hi> is a <hi>French</hi> word,<note place="margin">Minſhaeus.</note> the <hi>Italians</hi> call it <hi>Seniſ<g ref="char:EOLhyphen"/>calco, dict. a Schalk, i. e. Servus aut Officialis &amp; geſind, i. e. familia;</hi> but here 'tis taken for the <hi>High-Steward</hi> of <hi>England.</hi>
+            </p>
+            <pb n="5" facs="tcp:60828:3"/>
+            <p>Some derive it of <hi>Sein,</hi> a Houſe or Place, and <hi>Schale</hi> an Officer; others ſay <hi>Sen</hi> is an ancient word for Ju<g ref="char:EOLhyphen"/>ſtice, ſo that moſt naturally it ſignifies <hi>Officiarius Juſti<g ref="char:EOLhyphen"/>tiae,</hi> and this agreeth well with his Authority and Du<g ref="char:EOLhyphen"/>ty, to proceed <hi>ſecundum Leges &amp; conſuetudinis Angliae.</hi>
+            </p>
+            <p>In the next place, I am to conſider his <hi>Lordſhips Stile,</hi> which in Latin is <hi>Seneſchallus Angliae,</hi> and his <hi>Court</hi> is Intituled, <hi>Placita Coronae coram Seneſchallo Angliae;</hi> and when he ſitteth by force of his Office, he ſitteth under a Cloth of Eſtate, and ſuch as direct themſelves to him, ſay, <hi>Pleaſe your Grace, my Lord High-Steward of</hi> Eng<g ref="char:EOLhyphen"/>land.<note place="margin">Co. <hi>4.</hi> Inſt. <hi>59.</hi>
+               </note>
+            </p>
+            <p>As to the <hi>Antiquity of the Office,</hi> 'tis very ancient, and was before the Conqueſt: For Sir <hi>Ed. Coke</hi> tells us, that he himſelf hath read an Authentical Manuſcript, intituled, <hi>Authoritas Seneſchalli Angliae;</hi> which putting an Example of his Authority, ſaith, <hi>Sicut accidit</hi> God<g ref="char:EOLhyphen"/>wino, <hi>Comiti Kanciae, tempore Regis</hi> Edwardi, <hi>Anteceſſo<g ref="char:EOLhyphen"/>ris</hi> Willielmi <hi>Ducis</hi> Normandiae, <hi>pro bujuſmodi male ge<g ref="char:EOLhyphen"/>ſtis, &amp; conſiliis ſuis, per Seneſchallum Angliae adjudicatus, &amp; foris fecit Comitivam ſuam.</hi> In the time of <hi>William the Conquerour, William Fitz-Euſtace</hi> was Steward of <hi>England.</hi>
+            </p>
+            <p>Next come we to conſider, how this Great Office was formerly holden, and how at this time.</p>
+            <p>This Magiſtracy was formerly of Inheritance, and belonged to the Earldome of <hi>Leiceſter,</hi> as appeareth by a Record produced by Sir <hi>Ed. Coke; Seneſchalcia Angliae pertinet ad Comitivam de</hi> Leiceſter, <hi>&amp; pertinuit ab an<g ref="char:EOLhyphen"/>tiquo.</hi>
+            </p>
+            <p>Other Records teſtifie, that it belong'd to the Barony of <hi>Hinckley;</hi> and my Lord <hi>Coke</hi> tells us, that in the Reign of <hi>William Rufus,</hi> and <hi>H.</hi> 1. <hi>Hugh Grant ſemenel,</hi> Baron of <hi>Hinckley,</hi> held that Barony by the ſaid Office;
+<pb n="6" facs="tcp:60828:4"/>ſo that there ſeems a diverſity between theſe Records; but we ſhall reconcile it thus: <hi>Hinckley</hi> was parsel of the Poſſeſſions of the E. of <hi>Leiceſter;</hi> for <hi>Robert Bella<g ref="char:EOLhyphen"/>mont,</hi> E. of <hi>Leiceſter,</hi> in the Reign of <hi>H.</hi> 2. married with <hi>Petronil,</hi> Daughter and Heir of the ſaid <hi>Hugh Grant ſemenel,</hi> Baron of <hi>Hinckley,</hi> and Lord Steward of <hi>England;</hi> and ſo it continued, till by the forfeiture of <hi>Simon Montford</hi> it came to King <hi>H.</hi> 3. who in the fiftieth year of his Reign created <hi>Edmond</hi> his ſecond Son Earl of <hi>Leiceſter,</hi> Baron of <hi>Hinckley,</hi> and High-Steward of <hi>England;</hi> which continued in his Line, until <hi>Henry</hi> of <hi>Bullingbrook,</hi> Son and Heir of <hi>John</hi> of <hi>Gaunt,</hi> Duke of <hi>Lancaſter,</hi> who was the laſt that had any Eſtate of Inhe<g ref="char:EOLhyphen"/>ritance in the Office of the Steward of <hi>England.</hi>
+            </p>
+            <p>Since the time of <hi>H.</hi> of <hi>Bullingbrook,</hi> this great Office was never granted to any Subject, but only <hi>hac Vice:</hi> and the reaſon was, for that the Power of this Officer is ſo tranſcendent, that it was not holden fit to be in a<g ref="char:EOLhyphen"/>ny Subjects hands: For a Record ſaith, <hi>Et ſetendum eſt quod ejus Officium eſt ſupervidere &amp; regnare ſub Rege, &amp; immediate poſt Regom totum Regnum Angliae, &amp; omnes Miniſtros Legum infra idem Regnum, temporibus pacis &amp; guerrarum, &amp;c.</hi> and proceedeth particularly with di<g ref="char:EOLhyphen"/>vers high Powers and Authorities.</p>
+            <p>It is a Place of that Tranſcendency and Heighth,<note place="margin">
+                  <hi>Ephori</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Magiſtra<g ref="char:EOLhyphen"/>tus quidam Lacedemo<g ref="char:EOLhyphen"/>niorum op<g ref="char:EOLhyphen"/>poſiti Regi<g ref="char:EOLhyphen"/>bus, qui in<g ref="char:EOLhyphen"/>ſpiciebant ea quae ad Rempub. pertinebant.</note> that it might in ſome ſort match the <hi>Ephori</hi> among the <hi>La<g ref="char:EOLhyphen"/>tedemonians:</hi> The cuſtom of our Commonwealth hath upon great conſideration and policy brought it to paſs, that this Officer is of no great duration, but only for the diſpatch of ſome ſpecial buſineſs, as the Arraignment of ſome Noble-man, in caſe of Treaſon, <hi>&amp;c.</hi> which once ended, his Commiſſion expireth: ſo that we may deſcribe him thus; <hi>Magiſtratus eſt Excelſus, qui pro uno die, a Rego ordinatur, cum aliquis ex Proceribus Regni in Judicium vocatur de noxa Capitali.</hi>
+            </p>
+            <pb n="7" facs="tcp:60828:4"/>
+            <p>Now we are to take a Proſpect of the Extent of his Lordſhips Juriſdiction and Power, and the Rules he ought to judge by.</p>
+            <p>Although the Power and Authority of the Lord High-Steward hath been ſince the Reign of King <hi>H.</hi> 4. but <hi>hac Vice,</hi> yet is the <hi>hac Vice</hi> limited and appointed; as when a Lord of Parliament is Indicted of Treaſon or Felony, then the Grant of this Office under the Great Seal of <hi>England,</hi> is to a Lord of Parliament, reciting the Indictment: <hi>Nos conſiderantes quod Juſtitia eſt vir<g ref="char:EOLhyphen"/>tus Excellens, &amp; Altiſſimo complacens, eaque prae omnibus uti volentes, ac pro co quod Officium Seneſchalli Angliae, cujus praſentia pro adminiſtratione Juſtitiae, &amp; Executione ejuſdem in hac parte faciend. Requiritur, ut accepimus jam valeat: de fidelitate Strenuitate, provida Circum<g ref="char:EOLhyphen"/>ſpectione &amp; Induſtria Veſtric plurimum confidentes, Ordi<g ref="char:EOLhyphen"/>navimus &amp; Conſtituimus Vos ex hac cauſa &amp; cauſis Sene<g ref="char:EOLhyphen"/>ſchallum Noſtrum Angliae ad Officium illud cum omnibus eidem Officie in hac parte debitis &amp; pertinentibus hac vice gerend. accipiend. &amp; exercend. Dantes &amp; concedentes vo<g ref="char:EOLhyphen"/>bis tenore praeſentium plenam &amp; ſufficientem Roteſtatem &amp; Authoritatem ac Mandatum ſpeciale Indictamentum praedict. &amp;c.</hi> So that this Great Officer is wholly re<g ref="char:EOLhyphen"/>ſtrained to proceed only upon the recited Indict<g ref="char:EOLhyphen"/>ment.</p>
+            <p>At every Coronation he hath a Commiſſion under the Great Seal, <hi>hac Vice,</hi>
+               <note place="margin">
+                  <hi>Cok</hi>'s <hi>Litt.</hi> 79. a. b. 4 <hi>Inſt.</hi> 59.</note> to hear and determine the Claims for Grand Serjeanties, and other Honourable Services, to be done at the Coronation, for the ſolem<g ref="char:EOLhyphen"/>nizing thereof; for which purpoſe he holds his Court ſome convenient time before the Coronation.</p>
+            <p>The firſt Perſon that was created <hi>hac Vice</hi> for ſulem<g ref="char:EOLhyphen"/>nizing the Coronation of <hi>H.</hi> 4. was <hi>Thomas</hi> his ſecond Son; and upon the Arraignment of <hi>Thomas Holland,</hi>
+               <pb n="8" facs="tcp:60828:5"/>Earl of <hi>Huntingdon:</hi> the firſt that was created Steward of <hi>England, hac Vice,</hi> was <hi>Edward</hi> Earl of <hi>Devon.</hi>
+            </p>
+            <p>Laſtly, The Order and manner of Arraigning a Peer of the Realm before this Great Officer is to be conſi<g ref="char:EOLhyphen"/>der'd.</p>
+            <p>As the Peers of the Realm, who are Tryers, are not ſworn, ſo the Lord High-Steward, being Judge, is not ſworn likewiſe; yet ought he to proceed according to his Letters-Patents, <hi>Secundum Legem &amp; conſuetudinem Angliae;</hi>
+               <note place="margin">
+                  <hi>Co. Litt.</hi> 142. a. 4 <hi>Inſt. f.</hi> 60.</note> for all Commiſſions and Charters for Executi<g ref="char:EOLhyphen"/>on of Juſtice, are <hi>facturi quod ad Juſtitiam pertinet, ſe<g ref="char:EOLhyphen"/>cundum Legem &amp; conſuetudinem Angliae.</hi>
+            </p>
+            <p>But admit the Commiſſion ſhould be, <hi>Secundum ſanas Diſcretiones veſtras:</hi> How then?</p>
+            <p>I anſwer, <hi>Diſcretio eſt diſcernere per Legem quid ſit Juſtum;</hi> that is, to diſcern by the right Line of Law, and not the warpt meaſure of private Opinion: <hi>Si a Ju<g ref="char:EOLhyphen"/>re diſcedas, vagus cris, &amp; erunt omnia incerta:</hi> 'Tis cer<g ref="char:EOLhyphen"/>tain he that out-runs the Law, haſtens to his own de<g ref="char:EOLhyphen"/>ſtruction. Commiſſions then that Authoriſe proceed<g ref="char:EOLhyphen"/>ing <hi>ſecundum ſanas diſcretiones, &amp;c.</hi> in ſenſe are <hi>ſecun<g ref="char:EOLhyphen"/>dum Legem, &amp;c.</hi>
+            </p>
+            <p>The Earl of <hi>Huntingdon</hi> was Indicted of High-Trea<g ref="char:EOLhyphen"/>ſon in <hi>London,</hi>
+               <note place="margin">1 <hi>H.</hi> 4. <hi>f.</hi> 1. a.</note> by a Commiſſion before the Mayor and Juſtices; for that he, with other perſons, agreed to go a Mumming (which the <hi>French</hi> call <hi>Maſquerade</hi>) on the Night of <hi>Epiphany,</hi> in which they intended to kill the King, then at <hi>Windſor:</hi> And after the King granted a Commiſſion to the Earl of <hi>Derby,</hi> reciting, That where<g ref="char:EOLhyphen"/>as <hi>George,</hi> E of <hi>H.</hi> was Indicted of High-Treaſon, and that he would that right ſhould be done; and becauſe the Office of the Steward of <hi>England</hi> is now void, he grants it to the ſaid E. of <hi>Derby,</hi> to do Juſtice to the ſaid E. of <hi>Huntingdon,</hi> commanding by the ſame Commiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="9" facs="tcp:60828:5"/>all the Lords to be attendant upon him; and Pre<g ref="char:EOLhyphen"/>cept was likewiſe given by the ſame to the Conſtable of the <hi>Tower,</hi> to be attendant on him, and to bring the Pri<g ref="char:EOLhyphen"/>ſoner <hi>(viz.)</hi> the E. of <hi>H.</hi> before the ſaid E. of <hi>D.</hi> on the day appointed: whereupon the E. of <hi>D.</hi> the ſame day ſat in <hi>Weſtminſter-Hall</hi> under a Cloth of Eſtate by him<g ref="char:EOLhyphen"/>ſelf, and the E. of <hi>Westmerland,</hi> and other Earls and Barons, ſat at a conſiderable diſtance, and all the Juſti<g ref="char:EOLhyphen"/>ces and Barons of the Exchequer ſat round a Table, and after three <hi>O Yes</hi>'s made, and the Commiſſion read, the Juſtices deliver'd the Indictment to the Lord Steward, which was deliver'd to the Clerk of the Crown, who read it to the ſaid E. of <hi>H.</hi> which he confeſſed; where<g ref="char:EOLhyphen"/>upon <hi>Hill</hi> the King's Serjeant prayed Judgment, which the Lord Steward (after he had rehearſed the whole matter) pronounced in this manner; That the E. of <hi>H.</hi> ſhould be taken back to the Tower of <hi>London,</hi> and from thence be drawn to the Gallows, and there hanged; and being yet alive, cut down, and his Entrails drawn out of his body, and burnt; and that he ſhould be behead<g ref="char:EOLhyphen"/>ed, and quartered, <hi>Et ſic Deus propitiatur Animae ſuae.</hi>
+            </p>
+            <p>The Juſtices then ſaid, that if the E. of <hi>H.</hi> had de<g ref="char:EOLhyphen"/>ny'd the Treaſon, the Lord Steward ſhould have de<g ref="char:EOLhyphen"/>manded of every Lord in open Court, what they thought in their Conſciences, beginning with the Pu<g ref="char:EOLhyphen"/>iſny Lord; and if the greater number ſaid <hi>Guilty,</hi> then the Judgment to be given as above.</p>
+            <p>I refer your Lordſhips to <hi>Cambden</hi>'s Annals of Q. <hi>E<g ref="char:EOLhyphen"/>liz.</hi> for the manner of the Tryal of <hi>Tho. Howard,</hi> Duke of <hi>Norfolk,</hi> before <hi>George Talbot,</hi> E. of <hi>Shrewabury,</hi> Lord High-Steward upon that occaſion.</p>
+            <p>Sir <hi>Ed. Coke</hi> deſcribes the manner how a Peer is to be tryed, in caſe of Treaſon, <hi>&amp;c.</hi> before the Lord High-Steward of <hi>England.</hi>
+            </p>
+            <pb n="10" facs="tcp:60828:6"/>
+            <p>He muſt be Indicted before Commiſſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> or in the <hi>King</hi>'s <hi>Bench,</hi> if the Treaſon or miſpriſion, Felony or miſpriſion of Felony, be com<g ref="char:EOLhyphen"/>mitted in that County where the <hi>King</hi>'s-<hi>Bench</hi> ſit, when he is Indicted, then the King, by his Commiſſion under the Great Seal of <hi>England,</hi> conſtitutes ſome Peer of the Realm to be, <hi>hac Vice,</hi> Steward of <hi>England,</hi> who is Judg in this caſe. The Commiſſion recites the Judgment ge<g ref="char:EOLhyphen"/>nerally as 'tis found, and Power given to the Lord Steward to receive the Indictment, <hi>&amp;c.</hi> and to proceed <hi>ſecundum Legem &amp; conſuetudinem Angliae.</hi> A Command<g ref="char:EOLhyphen"/>ment is alſo given by the ſame to the Peers of the Realm to be attendant and obedient unto him; as alſo to the Lieutenant of the <hi>Tower,</hi> to bring the Priſoner before his Lordſhip.</p>
+            <p>Then a <hi>Certiorari</hi> is awarded out of <hi>Chancery,</hi> to re<g ref="char:EOLhyphen"/>move the Indictment it ſelf before the Lord Steward; which may either bear date the ſame day of the Stewards Commiſſion, or any day after. The Lord Steward di<g ref="char:EOLhyphen"/>rects his Precept under his Seal to the Commiſſioners, to certifie the Indictment ſuch a day and place. He alſo makes two other Precepts, one to the Conſtable, or Lieutenant of the <hi>Tower,</hi> to bring the Body of the Pri<g ref="char:EOLhyphen"/>ſoner before him, at ſuch a day and place; as alſo to a Serjeant at Arms to ſummon, <hi>Tot &amp; tales Dominos, Mag<g ref="char:EOLhyphen"/>nates &amp; Proceres hujus Regni Angliae praedicti R. Comitis E. Pares, per quos rei veritas melius ſciri poterit, quod ipſi perſonaliter compareant coram praedict. Seneſchallo a<g ref="char:EOLhyphen"/>pud Weſtm. tali die &amp; hora ad faciend. ea quae ex parte Domini Regis forent facienda,</hi> &amp;c.</p>
+            <p>In this Summons four things are obſervable.
+<list>
+                  <item>1. That all theſe Precepts, moſt commonly, bear date in one day.</item>
+                  <pb n="11" facs="tcp:60828:6"/>
+                  <item>2. That no number of Peers are named in the Pre<g ref="char:EOLhyphen"/>cept, and yet there muſt be twelve, or above.</item>
+                  <item>3. That the Precept is awarded for the return of the Peers, before any Arraignment or Plea pleaded by the Priſoner.</item>
+                  <item>4. That the Lords are not <hi>de Vicineto;</hi> and therefore the ſitting and Tryal may be in any County of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>At the day, the Lord High Steward, with ſix Ser<g ref="char:EOLhyphen"/>jeants at Arms before him, takes his place under a Cloth of Eſtate, and then the Clerk of the Crown delivers to him his Commiſſion, who re-delivers it. After three <hi>O Yes</hi>'s by a Serjeant at Arms, and Commandment given in the Name of the Lord High-Steward of <hi>England</hi> to keep ſilence, the Commiſſion is read; then the Uſher delivers to the Steward a white Rod, who re-delivers the ſame, which he holds before the Lord High-Steward. It was deliver'd, upon the like occaſion, to the Earl of <hi>Shrewsbury,</hi> by <hi>Garter</hi> King at Arms.</p>
+            <p>
+               <hi>O Yes</hi> being again made, Commandment is given in the Name of the H. Steward to all Juſtices and Com<g ref="char:EOLhyphen"/>miſſioners, to certifie all Indictments and Records; which being deliver'd into Court, the Clerk of the Crown reads the Return, and the Serjeant at Arms is commanded to return his Precept, with the names of the E. and Barons by him ſummoned, and the Return of that is alſo read; then are the Peers ſummoned to an<g ref="char:EOLhyphen"/>ſwer to their Names, which are recorded.</p>
+            <p>When they have taken their places, and the Priſoner ſet to the Bar, then the Lord High-Steward declares un<g ref="char:EOLhyphen"/>to them the cauſe of their Aſſembly, and perſwades the Priſoner to Anſwer without fear, aſſuring him, that he ſhall be heard with patience, and that Juſtice ſhall be done to him.</p>
+            <pb n="12" facs="tcp:60828:7"/>
+            <p>After this, the Clerk of the Crown reads the Indict<g ref="char:EOLhyphen"/>ment, and proceeds to the Arraignment of the Priſoner; and if he plead <hi>Not Guilty,</hi> the Entry is, <hi>Et de hoc de bo<g ref="char:EOLhyphen"/>no &amp; malo ponit ſe ſuper Pares ſues, &amp;c.</hi> After which the Lord High-Steward gives a Charge to the Peers, ex<g ref="char:EOLhyphen"/>horting them to try the Priſoner indifferently, according to their Evidence, which is opened by the King's Learned Counſel, who produce their Proofs for the King againſt the Priſoner. Some, or all of the Judges, are ever attendant upon the Lord High-Steward, and take their places at the feet of the Peers.</p>
+            <p>After the Evidence is given for the King, and the Priſoners Defence made, he is withdrawn from the Bar, under the cuſtody of the Lieutenant, whilſt the Tryers go to ſome place to conſider of their Evidence; upon debate of which, if they doubt of any matter, they cannot ſend to the High-Steward to ask the Judges any Queſtions of Law, but in the hearing of the Pri<g ref="char:EOLhyphen"/>ſoner, that he may know whether the caſe be rightly put, for <hi>de facto jus Oritur;</hi> neither can they ſend for the Judges to know their Opinion, but the H. Steward ought to demand it in Court, in the preſence of the Priſoner.</p>
+            <p>When the Lords are agreed, they return into Court, and the Lord H. S. publickly in open Court, beginning with the Puiſny Lord, ſays unto him, <hi>My Lord</hi> A. <hi>is</hi> W. V. S. <hi>guilty of the Treaſons whereof he hath been Indicted and Arraigned, or any of them?</hi> And the Lord ſtanding up ſays, <hi>Guilty,</hi> or <hi>Not Guilty;</hi> and ſo upward of the reſt <hi>ſerialim.</hi>
+            </p>
+            <p>The Peers having given their Verdict in the abſence of the Priſoner, the Priſoner is brought to the Bar, whom the Lord High-Steward acquaints with the Verdict of his Peers, and gives Judgment accordingly, either of Condemnation, or Acquittal.</p>
+            <pb n="13" facs="tcp:60828:7"/>
+            <p>After the Service is performed, and <hi>O Yes</hi> made for diſſolving the Commiſſion, the white: Rod is taken by the Lord High-Steward in both his hands, and broken in pieces.</p>
+            <p>Thus have I preſented to your Lordſhips a Scheme of that ſolemn order and manner, how a Peer of the Realm is Arraigned before the Lord High-Steward of <hi>England.</hi> I might amaſs ſeveral Preſidents of like nature, wherein the Axe of Death is born before the Priſoner, with the Edge from him; and after being found Guilty, with the Edge to him. I wiſh your Lordſhips may never know more of this Point by a fatal experience.</p>
+            <p>Now it remains that I give <hi>Solutions</hi> to thoſe <hi>Queries</hi> your Lordſhips were pleas'd to put concerning Tryals, Treaſons, <hi>&amp;c.</hi> by which I wiſh you may arrive at ſome reaſonable ſatisfaction.</p>
+            <div n="1" type="query">
+               <head>QUERY I.</head>
+               <p>How Antient this Tryal by Peers may be?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>Without doubt 'tis Coetaneous with the Office of the Lord High-Steward, and how old that is, hath been already ſhewn: However, I ſhall preſent one Authori<g ref="char:EOLhyphen"/>ty, which proves, that Tryal by the Peerage was in uſe in the Reign of <hi>William the Conquerour,</hi> who in the be<g ref="char:EOLhyphen"/>ginning of his Reign created <hi>William Fitz Osborne</hi> (Earl of <hi>Betrevil</hi> in <hi>Normandy</hi>) Earl of <hi>Hereford.</hi> His Son <hi>Roger</hi> ſucceeded him, and was E. of <hi>Hereford,</hi> who un<g ref="char:EOLhyphen"/>der colour of his Siſters Marriage, near <hi>New-Market</hi> in <hi>Camb.</hi> Shire, where many of the Nobility were aſſem<g ref="char:EOLhyphen"/>bled, conſpir'd with them to receive the <hi>Danes</hi> into <hi>England,</hi> and depoſe <hi>William the Conquerour</hi> (who was then in <hi>Normandy</hi>) from his Kingdom of <hi>England;</hi> to effect which, he with others roſe. This Treaſon was re<g ref="char:EOLhyphen"/>veal'd by <hi>Walter,</hi> E. of <hi>Huntingdon,</hi> who was one of
+<pb n="14" facs="tcp:60828:8"/>the Conſpirators, and Son to the Great <hi>Syward,</hi> Earl of <hi>Northumberland;</hi> for which Treaſon, <hi>Roger</hi> E. of <hi>Here<g ref="char:EOLhyphen"/>ford</hi> was apprehended by <hi>Urſe Tiptof,</hi> than Sheriff of <hi>Worceſterſhire,</hi>
+                     <note place="margin">A. <hi>8.</hi> W. <hi>1.</hi>
+                     </note> and after tryed by his Peers, and found guilty of the Treaſon, <hi>per Judicium Parium ſuorum.</hi> But he ended his days in Priſon.</p>
+               </div>
+            </div>
+            <div n="2" type="query">
+               <head>QUERY II.</head>
+               <p>Whether a Peer can wave his Tryal by Peers?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>He cannot wave his Peers, and put himſelf upon the Tryal of Twelve Freeholders; for the Stat. of <hi>M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. Shart.</hi> is, that he muſt be tryed, by his Peers; and ſo it was reſolved in the Lord <hi>Daere</hi>'s Caſe.<note place="margin">26 <hi>H.</hi> 8.</note>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="query">
+               <head>QUERY III.</head>
+               <p>What Lords ſhall be tryed by Bears, in caſes of Trea<g ref="char:EOLhyphen"/>ſon, &amp;c?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>Every Lord of Parliament that hath Voice therein, and called thereto by the King's Writ, ſhall not be tryed by Peers, but only ſuch as ſit <hi>Patrone Nobilitatis;</hi> as Dukes, Marqueſſes, Earls, Viſcounts, and Barons, and not ſuch as are Lords of Parliament, by reaſon of their Baronies which they hold in right of the Church, as Arch-Biſhops, and Biſhops of this Realm, for though they be Lords of Parliament, yet upon an Impeach<g ref="char:EOLhyphen"/>ment either of Treaſon or Felony, they ſhall not be try<g ref="char:EOLhyphen"/>ed by the Peers of the Realm, but by a Jury of Knights, and other ſubſtantial perſons upon their Oaths; and one reaſon alledged by ſome (how truly let others judge) is, foraſmuch as Archbiſhops and Biſhops cannot paſs in like caſes upon the tryal of any other of the Peers, their Lordſhips being prohibited by the Common and Eccleſi<g ref="char:EOLhyphen"/>aſtical Laws to be Judges of Life and Death; and this Tryal ought to be Mutual, ſince the performance of it is upon their Honours, without any Oath taken.</p>
+                  <pb n="15" facs="tcp:60828:8"/>
+                  <p>And hone, by the way, your Lordſhips may take no<g ref="char:EOLhyphen"/>tice, how great regard the Law hath to the word of a Peer, when ſpoken upon his Honour. I need ſay no more upon this <hi>Topick,</hi> I ſince your Lordſhips in that Ex<g ref="char:EOLhyphen"/>cellent Poem, <hi>A PARADOX againſt Liberty,</hi> have expreſt your thoughts ſo extremely well.</p>
+                  <p>No Temporal Lord, but only Lords of Parliament, ſhall have this kind of Tryal; and therefore the Eldeſt Son, and Heir Apparent of a Duke, in the life of his Father, though he be called an Earl, is excluded: And this was the Caſe of <hi>Henry Howard,</hi> Earl of <hi>Surrey,</hi> Son and Heir Apparent of <hi>Thomas.</hi> Duke of <hi>Suffolk,</hi> in the 38. of <hi>H.</hi> 8. Likewiſe the Son and Heir Apparent of an Earl, though he be called Lord; or Baron, and all the younger Sons of Kings are Earls by Birth, though they have no other Creation, yet ſhall they not be partakers of this, or other Priviledges, incident to the Lords of Parliament.</p>
+                  <p>Thoſe that are Barons of <hi>Ireland,</hi> of <hi>Scotland,</hi>
+                     <note place="margin">Cok. Litt. <hi>16. b. 3</hi> Inſt. f. <hi>30. 2</hi> Inſt. f. <hi>48.</hi>
+                     </note> com<g ref="char:EOLhyphen"/>mitting Treaſon, <hi>&amp;c.</hi> in <hi>England,</hi> ſhall not have their Tryal by Peers, though they were born in <hi>England,</hi> for they receive their Dignity from a King of their Na<g ref="char:EOLhyphen"/>tions.</p>
+                  <p>If a Duke, or other Noble man of <hi>France,, Spain,</hi>
+                     <note place="margin">Co. L. <hi>7. Calvin</hi>'s Caſe.</note> 
+                     <hi>&amp;c.</hi> comes into <hi>England</hi> by the King's ſafe Conduct, in which the King ſtiles him Duke, according to his Crea<g ref="char:EOLhyphen"/>tion, nevertheleſs in all proceedings in the King's Courts he ſhall not be ſtiled by his Name of Dignity, much leſs a partaker of the Priviledge of this Tryal by Peers.</p>
+                  <p>But if the King of <hi>England</hi> at this day create one of his Subjects of <hi>Scotland</hi> to be Viſcount within <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or by ordinary Summons under his Great Seal call him to the Upper Houſe of Parliament, and aſſign him
+<pb n="16" facs="tcp:60828:9"/>a Place, and to Vote there in his Great Council, he ſhall be thereby a Peer of this Realm, and enjoy all their Pri<g ref="char:EOLhyphen"/>viledges.</p>
+               </div>
+            </div>
+            <div n="4" type="query">
+               <head>QUERY IV.</head>
+               <p>What Witneſſes are required in Indictments and Tryals of Treaſon, or miſpriſion of Treaſon?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>By the Ancient Common Law, one Witneſs or Ac<g ref="char:EOLhyphen"/>cuſer was not ſufficient to Convict any perſon of High-Treaſon, for, in that caſe, it was to be tryed before the Conſtable and Marſhal by Combat; but they have no Juriſdiction to hold Plea of any thing which may be de<g ref="char:EOLhyphen"/>termined by Common Law: And that two Witneſſes are requiſite, appears by the Books of Law; and the Common Law herein is grounded upon the Law of God,<note place="margin">Mirr. cap. <hi>3.</hi> Ordin. de Attaint. Brad. L. <hi>5.</hi> f. <hi>354. 48</hi> Ed. <hi>3.30. 35</hi> H. <hi>6.46.</hi> Forteſcue c. <hi>32.</hi>
+                     </note> expreſſed both in the Old and New Teſtament, <hi>Deut.</hi> 17. v. 6. <hi>Numb.</hi> 35. v. 30. <hi>Deut.</hi> 19. v. 15. <hi>Matth.</hi> 18. v. 16. 2 <hi>Cor.</hi> 13. v. 1. and this ſeemeth more clear in the Tryal by Peers, becauſe they come not <hi>de aliquo Vicineto,</hi> whereby they may take notice of the Fact, in reſpect of Vicinity, as other Jurors may do. By the Stat. of 1 <hi>E.</hi> 6. <hi>c.</hi> 12. none ſhall be Indicted, Arraigned, Condemned, or Convicted for any Treaſon, <hi>&amp;c.</hi> for which the Offender ſhall ſuffer pains of Death, Impri<g ref="char:EOLhyphen"/>ſonment, loſs or forfeiture of his Goods, Chattels, Lands or Tenements, unleſs he be accuſed by two ſufficient and lawful Witneſſes, or ſhall willingly without vio<g ref="char:EOLhyphen"/>lence confeſs the Fact. The ſame proviſion is made by 5 <hi>E.</hi> 6. wherein I muſt obſerve to your Lordſhips, that two lawful Accuſers, in this Act, are taken for two law<g ref="char:EOLhyphen"/>ful Witneſſes; for by two lawful Accuſers, and accuſed by two lawful Witneſſes (as 'tis in 1 <hi>E.</hi> 6.) are Identi<g ref="char:EOLhyphen"/>cal; which word <hi>(Accuſers)</hi> was uſed, becauſe two Wit<g ref="char:EOLhyphen"/>neſſes ought directly to accuſe, that is, charge the Pri<g ref="char:EOLhyphen"/>ſoner,
+<pb n="17" facs="tcp:60828:9"/>for the Common Law reſpects none elſe; and therefore lawful Accuſers muſt be ſuch as are allowed by Laws.</p>
+                  <p>And thus 'twas reſolved by the Juſtices in the Caſe of the Lord <hi>Lumley;</hi>
+                     <note place="margin">Hill. <hi>14.</hi> El.</note> for if they ſhould not be taken ac<g ref="char:EOLhyphen"/>cording to the meaning aforeſaid, then there muſt be two Accuſers, by 5 <hi>E.</hi> 6. and two Witneſſes,<note place="margin">Dyer <hi>f.</hi> 99. W. Tho<g ref="char:EOLhyphen"/>mas <hi>his Caſe.</hi>
+                     </note> by 1 <hi>E.</hi> 6. and the ſtrange conceipt in 2 <hi>Mar.</hi> that one may be an Accuſer by Hear-ſay, was utterly denied in the Lord <hi>Lumley</hi>'s Caſe.</p>
+                  <p>And here, ſince your Lordſhips did not make it a <hi>Query,</hi> I ſhall not ſo ſtrictly conſider it, whether the Te<g ref="char:EOLhyphen"/>ſtimony of a Forreigner may be admitted, in caſe of Treaſon. The Duke of <hi>Norfolk</hi> at his Arraignment ſaid, that nothing which was yet produced was of any moment againſt him, ſave only the Biſhop of <hi>Roſs</hi> his Teſtimony; and that (by Opinion of <hi>Bracton</hi>) was not to be admitted, becauſe he was a Forreigner; to which <hi>Callin,</hi> Lord Chief Juſtice anſwer'd, that in ſuch Cau<g ref="char:EOLhyphen"/>ſes as this, the Teſtimony of Forreigners is of force, and it lies in the Peers to attribute to,<note place="margin">Camb. El. A. <hi>1572.</hi>
+                     </note> or derogate from ſuch Teſtimony as they ſhall think fit.</p>
+                  <p>Where <hi>Bract.</hi> ſaith, that an Alien born cannot be a Witneſs, it is to be underſtood of an Alien Infidel; for the Biſhop of <hi>Roſs</hi> being a <hi>Scot</hi> born, was admitted to be a Witneſs, and ſworn 14 <hi>El.</hi> by Opinion of all the Ju<g ref="char:EOLhyphen"/>ſtices Aſſiſtants.</p>
+                  <p>If a perſon be accuſed by one Witneſs touching one fact, and by another concerning another fact, the one committed in <hi>Middleſex,</hi> the other in <hi>Surrey,</hi> he that ſwears the fact done in <hi>London,</hi> joyned to the other Wit<g ref="char:EOLhyphen"/>neſs that ſwears to the fact done in <hi>Surrey,</hi> ſhall be e<g ref="char:EOLhyphen"/>ſteemed two ſufficient Witneſſes, in caſe of Treaſon; and ſo was it ruled by the Judges at the <hi>Old-Baily,</hi> up<g ref="char:EOLhyphen"/>on
+<pb n="18" facs="tcp:60828:10"/>the Tryal of the Five Jeſuits (<hi>whitebread, Harcourt, Turner, Fenwick,</hi> and <hi>Gaven</hi>) according to the Reſolu<g ref="char:EOLhyphen"/>tion in Sir <hi>H. Vane</hi>'s Caſe, at the King's-B. Bar, where one Witneſs prov'd the levying War in one County, and the other prov'd the levying War in another County; and ſo though they were but ſingle Witneſſes of ſingle facts, yet both coming up to the Indictment, they were adjudged two ſufficient Witneſſes to maintain it.</p>
+               </div>
+            </div>
+            <div n="5" type="query">
+               <head>QUERY V.</head>
+               <p>Whether a Noble-man being Arraigned, own challenge his Peers?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>If the party an aigned (ſays <hi>Coke</hi>) be a Lord of Parlia<g ref="char:EOLhyphen"/>ment, and a Peer of the Realm, and is to be tryed by his Peers, he ſhall not challenge any of them, for they are not ſworn as other Jurors be, but find the party guilty, or not guilty, upon their Paith or Allegiance to the King;<note place="margin">Cok<hi>'s</hi> Litt. <hi>156. b.</hi>
+                     </note> and they are Judges of the fact, and every of them doth ſeparately give his judgment, beginning at the loweſt.</p>
+                  <p>Again,<note place="margin">Cok<hi>'s</hi> Litt. <hi>294. a.</hi>
+                     </note> he tells us, that the four Knights, Electors of the Grand Aſſize, are not to be challenged, for that in Law they be Judges to that purpoſe, and Judges can<g ref="char:EOLhyphen"/>not be challenged; and that is the reaſon why Noble<g ref="char:EOLhyphen"/>men cannot be challenged, for <hi>Mag. Charta</hi> ſaith, <hi>Per Judicium Parium ſuorum,</hi>
+                     <note place="margin">
+                        <hi>Cap.</hi> 29.</note> and not <hi>Veredictum.</hi>
+                  </p>
+                  <p>When the Peers (that were to be Tryers at the Ar<g ref="char:EOLhyphen"/>raignment of the Ealls of <hi>Eſſex</hi> and <hi>Southampton</hi>) were called by name,<note place="margin">Camb. Eliz. A. <hi>1601.</hi>
+                     </note> the Earl of <hi>Eſſex</hi> demanded whether it were not lawful for them (as the uſe is to private men) to except againſt ſome of their Peers? The Judges an<g ref="char:EOLhyphen"/>ſwer'd, that ſuch was the Credit and Eſtimation of the Peers of <hi>England,</hi> that they are neither compelled to an Oath in Arraignments, nor ſubjected to Exceptions.</p>
+               </div>
+            </div>
+            <div n="6" type="query">
+               <pb n="19" facs="tcp:60828:10"/>
+               <head>QUERY IV.</head>
+               <p>Whether the <hi>Lord High-Steward</hi> can collect the Evi<g ref="char:EOLhyphen"/>dence againſt the Priſoner, or conſer with the Lords, touch<g ref="char:EOLhyphen"/>ing the ſame, in the Priſoners abſence?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>To this I anſwer negatively, for after the King's Learned Counſel have produc'd all their Evidence, the Priſoner ought to be preſent at all Conferences touching the ſame; and therefore it ſhall be neceſſary for all Pri<g ref="char:EOLhyphen"/>ſoners, after Evidence given againſt them, before depar<g ref="char:EOLhyphen"/>ture from the Bar, to require Juſtice of the <hi>Lord High-Steward,</hi> and of the other Lords; and that no Queſti<g ref="char:EOLhyphen"/>on be demanded, or conference had by any with the Lords, but in open Court in their own hearing, other<g ref="char:EOLhyphen"/>wiſe ſuch Priſoners ſhall take no advantage thereof after Verdict and Judgment given.</p>
+               </div>
+            </div>
+            <div n="7" type="query">
+               <head>QUERY VII.</head>
+               <p>If the Lords be equally divided, between guilty and not guilty, whether the party tryed ſhall be acquitted or con<g ref="char:EOLhyphen"/>demned?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>In an Information in the Court of <hi>Star-Chamber,</hi> by the Attorney againſt Sir <hi>Stephen Proctor,</hi> and others, for conſpiracy againſt, and ſcandal of the Earl of <hi>Nor<g ref="char:EOLhyphen"/>thampton,</hi>
+                     <note place="margin">Co. <hi>4.</hi> Inſt. f. <hi>64.</hi>
+                     </note> and <hi>Edward</hi> Lord <hi>Wootten,</hi> two of his Maje<g ref="char:EOLhyphen"/>ſties moſt Honourable Privy Council; at the hearing of which Cauſe there ſat eight in Court, whereof four condemned the Defendants, and the other four <hi>(viz.)</hi> the Lord Chancellour, two Biſhops, and the Chancel<g ref="char:EOLhyphen"/>lour of the Exchequer, acquitted them; the Queſtion was, according as your Lordſhips have propos'd it, Whether the Defendants ſhould be condemned or not: And here it was moved by the King's Learned Counſel, that when the Voices are equal, that in that caſe of
+<pb n="20" facs="tcp:60828:11"/>which part the Lord Chancellour was, on that ſide it ſhould be determin'd, without regard either to Plaintiff or Defendant: And it was reſolved, that regularly and <hi>de communi Jure,</hi> in reſpect of the equality of Voices, that no ſentence could be given as it holdeth in the High Court of Parliament, and all other Courts, accord<g ref="char:EOLhyphen"/>ing to the old rule, <hi>Paribus ſententiis Reus abſolvitur:</hi> And ſentence was never given againſt Sir <hi>Stephen Pro<g ref="char:EOLhyphen"/>ctor,</hi> agreeable to the general rule in other Courts. In this point the Civil Law concurs with the Common. <hi>Inter Pares Numero Judices ſi diſſonae ſententiae profe<g ref="char:EOLhyphen"/>rantur, in liberalibus quidem cauſis (ſecundum quod a Di<g ref="char:EOLhyphen"/>vo Pio conſtitutum eſt) pro libertate ſtatutum obtinet, in alits autem cauſis pro Ree, quod &amp; in Judiciis publicis, obti<g ref="char:EOLhyphen"/>nere oportet.</hi>
+                     <note place="margin">Vid. Grot. lib. <hi>2.</hi> c. <hi>5.</hi> uu. <hi>18.</hi> de Jure Belli, <hi>&amp;c.</hi>
+                     </note>
+                  </p>
+                  <p>
+                     <hi>Reus ſententiis paribus abſolvitur, &amp; ſemper quicquid dubium eſt, humanit as milinat in melius.</hi>
+                  </p>
+                  <p>
+                     <hi>Alter Judex damnat, alter abſolvit, &amp; inter diſpares ſententias milior viniat.</hi>
+                  </p>
+                  <p>I ſhall here take leave to make a little digreſſion from the Query, and conſider if a perſon that is forth-coming, can by Parliament be attainted of High-Treaſon, and ne<g ref="char:EOLhyphen"/>ver call'd to anſwer? This ſeems as much worth the in<g ref="char:EOLhyphen"/>quiry, as other your Lordſhips Queries; and though o<g ref="char:EOLhyphen"/>mitted by you, I ſhall not let it paſs without ſome no<g ref="char:EOLhyphen"/>tice.</p>
+                  <p>By the 2. of <hi>H.</hi> 6. we find a great Peer condemned without Arraignment or Anſwer;<note place="margin">Co. <hi>4.</hi> Inſt. f. <hi>37, 38.</hi>
+                     </note> the like in 32 <hi>H.</hi> 8. one Attainted (though living and forth-coming) of High-Treaſon, without ever being called to Judgment: The legality whereof was ſcrupled, and demanded of the Judges whether the Act were void or not: with ſome pauſe, they adjudged it perillous, and of bad exam<g ref="char:EOLhyphen"/>ple to the Inferiour Courts; but 'twas agreed, if con<g ref="char:EOLhyphen"/>demned
+<pb n="21" facs="tcp:60828:11"/>by Parliament, to be indiſputable, though <hi>Cap.</hi> 29. 5 <hi>E.</hi> 3. <hi>c.</hi> 9. 28 <hi>E.</hi> 3. <hi>c.</hi> 5. of <hi>Mag. Char.</hi> affirms, that no man ought to be condemned without Anſwer, with<g ref="char:EOLhyphen"/>out a <hi>Quid feciſti?</hi> and all due proceedings at Law.<note place="margin">Senec. in Loco.</note> 
+                     <hi>Qui ſtatuit aliquid parte inaudita altera, licet aequum ſtatuerit hand aequus ſucrit.</hi>
+                  </p>
+                  <p>With the Municipal Laws agree thoſe of the <hi>Ro<g ref="char:EOLhyphen"/>mans.</hi>
+                  </p>
+                  <p>
+                     <hi>Divi Severi &amp; Antonini Magni reſcriptum eſt,</hi>
+                     <note place="margin">
+                        <hi>D.</hi> 48.17.</note> 
+                     <hi>ne quis abſens primatur, &amp; hoc jure utimur, ne Abſentes damnen<g ref="char:EOLhyphen"/>tur, neque enim inaudita cauſa quemquam damnari aequi<g ref="char:EOLhyphen"/>tatis ratio patitur.</hi>
+                     <note place="margin">Acts <hi>25.</hi> v. <hi>16.</hi>
+                     </note> It is not the manner of the <hi>Romans</hi> to deliver any man to death, before the accuſed have his accuſers face to face, and licenſe to anſwer for him<g ref="char:EOLhyphen"/>ſelf.</p>
+               </div>
+            </div>
+            <div n="8" type="query">
+               <head>QUERY VIII.</head>
+               <p>Whether the King, and one of the Houſes alone, or both without the King, can declare a Treaſon within the Stat. of <hi>25 E. 3. cap. 2?</hi>
+               </p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>
+                     <hi>John</hi> Duke of <hi>Groyen</hi> and <hi>Lancaſter,</hi> Steward of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and <hi>Thomas</hi> Duke of <hi>Gloceſter,</hi> Conſtable of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the King's Uncles, complained to the King, that <hi>Thomas Talbot</hi> Knight, with others his Adherents, con<g ref="char:EOLhyphen"/>ſpired the death of the ſaid Dukes, as the ſame was con<g ref="char:EOLhyphen"/>feſſed, and well known, and prayed that the Parliament might judge of the fault, (which Petition was juſt, and according to the Branch of the Stat. of 25 <hi>E.</hi> 3.) but the Record ſaith further, that the King and Lords in Parliament adjudged the ſame fact to be High-Treaſon, which Judgment wanting the aſſent of the Commons, was no Declaration within the ſaid Stat. which is attend<g ref="char:EOLhyphen"/>ed with this reſtriction.</p>
+                  <p>
+                     <hi>That if any other caſe, ſuppoſed to be Treaſon, ſhould
+<pb n="22" facs="tcp:60828:12"/>happen before any Juſtices, the Juſtices ſhould tarry with<g ref="char:EOLhyphen"/>out going to judment of the Treaſon, till the Caſe be ſhewed before the King, and his Parliament (conſiſting of Lords Spiritual and Temporal, and the Commons) whether it ought to be adjudged Treaſon or Felony.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="9" type="query">
+               <head>QUERY IX.</head>
+               <p>Whether the Subjects of another Prince, Confederate with the King of <hi>England,</hi> can be held for the King's E<g ref="char:EOLhyphen"/>nemies?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>It was objected againſt the Duke of <hi>Norfolk,</hi> con<g ref="char:EOLhyphen"/>cerning his relieving of the <hi>Scots,</hi> the Queens Ene<g ref="char:EOLhyphen"/>mies, which was proved by Letters, and <hi>Baniſter</hi>'s con<g ref="char:EOLhyphen"/>feſſion, <hi>&amp;c.</hi> whereupon the Duke asked the Judges, <hi>Whether the Subjects of another Prince,</hi>
+                     <note place="margin">Camb. Eliz. A. <hi>1572.</hi>
+                     </note> 
+                     <hi>Confederate with the Queen of</hi> England, <hi>were to be holden for the Queens Enemies? Calelin</hi> Chief Juſtice anſwer'd, that they were; and that the Queen of <hi>England</hi> might make War with any Duke of <hi>France,</hi> and yet in the interim keep peace with the <hi>French</hi> King. And here 'tis to be noted, that the Judges ought not to deliver their Opi<g ref="char:EOLhyphen"/>nions before-hand, in any criminal caſe that may come before them judicially. In the Caſe of <hi>Humphrey Staf<g ref="char:EOLhyphen"/>ford,</hi> that Arch Traytor <hi>Huſſey,</hi> Chief Juſtice, beſought King <hi>H.</hi> 7. that he would not deſire to know their Opi<g ref="char:EOLhyphen"/>nions before-hand for him, for they thought it ſhould come before them in the <hi>King's-Bench</hi> judicially, and then they would do that which of right they ought, which the King approv'd of. Beſides the nature of their Oath requires it, who are ſworn that they ſhall well and lawfully ſerve our Soveraign Lord the King, and his People, in the Office of a <hi>Juſtice;</hi> and that they ſhall do equal Law and execution of Right to all his Sub<g ref="char:EOLhyphen"/>jects.</p>
+               </div>
+            </div>
+            <div n="10" type="query">
+               <pb n="23" facs="tcp:60828:12"/>
+               <head>QUERY X.</head>
+               <p>Whether an Attainder of Treaſon way be falſified by the Plea of the Party?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>
+                     <hi>A.</hi> 1. <hi>Mar.</hi> A Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> in <hi>London</hi> was directed to Sir <hi>Tho White,</hi> Lord Mayor, and to divers others, reciting, that where Sir <hi>Robert Dudley</hi> Knight, 9 <hi>Jan.</hi> 1. <hi>Mar.</hi> was Indicted of High Treaſon before <hi>Thomas</hi> Duke of <hi>Nonfolk,</hi> and fourteen other Commiſſioners in the County of <hi>Norfolk,</hi> (where in truth the Commiſſion was directed to ſo many, but the Indictment was taken before Eight of them only) grant<g ref="char:EOLhyphen"/>ing to them, or any four of them, Authority to receive the Indictment taken before fifteen Commiſſioners, and to proceed thereupon as Special Juſtices of <hi>Oyer</hi> and <hi>Terminer;</hi> by pretext whereof they proceeded, and up<g ref="char:EOLhyphen"/>on confeſſion of the ſaid Sir <hi>Rob. Dudley,</hi> gave Judgment againſt him.</p>
+                  <p>In this Caſe it was adjudged, that Sir <hi>Rob. Dudley,</hi> then Earl of <hi>Leiceſter,</hi> might falſifie the ſaid Attainder by Plea, becauſe it was void, and <hi>conam non Judice;</hi> for that the latter Commiſſioners had not power to proceed upon an Indictment taken before Eight, but before Fif<g ref="char:EOLhyphen"/>teen, and ſo void. The Party is not driven to his Writ of Errour, but may falſifie the Attainder by Plea, ſhew<g ref="char:EOLhyphen"/>ing the ſpecial matter, which proveth it void <hi>ut ſupra.</hi> In which caſe the party forfeiteth neither Lands nor Goods.</p>
+                  <p>'Tis holden by ſome, that if a perſon be attainted of High-Treaſon by the Common Law, that no Writ of Errour ſhould be brought for the reverſal of that Attain<g ref="char:EOLhyphen"/>der, by reaſon of theſe words in the Stat. 33 <hi>H.</hi> 8. <hi>cap.</hi> 20. And if any perſon or perſons ſhall be attainted of High-Treaſon by the courſe of the Common Law, <hi>&amp;c.
+<pb n="24" facs="tcp:60828:13"/>that every ſuch Attainder by the Common Law, ſhall be of as good ſtrength, value, force and effect, as if it had been done by Authority of Parliament.</hi> But the contrary here<g ref="char:EOLhyphen"/>of was reſolved at a Parliament holden <hi>A.</hi> 25. <hi>Eliz.</hi> that a Writ of Errour ſhould be maintained for the re<g ref="char:EOLhyphen"/>verſal of Erroneous Attainders of High-Treaſon by the Common Law; for that former Stat. is to be intended of lawful Attainders, and not where there is any Er<g ref="char:EOLhyphen"/>rour in the ſame: for by that of the Queen 'tis provi<g ref="char:EOLhyphen"/>ded, <hi>That no Record of Attainder of any perſon or perſons, of or for any High-Treaſon, where the party ſo Attainted is or hath been executed for the ſame, ſhall be,</hi> &amp;c. <hi>in any wiſe hereafter reverſed, undone, avoided, or Impeached by any Plea, or for any Errour whatſoever.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="11" type="query">
+               <head>QUERY XI.</head>
+               <p>Whether torture, in caſe of Treaſon or Felony, may be u<g ref="char:EOLhyphen"/>ſed by our Law?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>Sir <hi>John Forteſcue,</hi> Chief Juſtice of <hi>England,</hi> who wrote in commendation of our Common Laws, prefer<g ref="char:EOLhyphen"/>reth the ſame for Government before the Civil Law; and particularly, that all tortures were againſt the Com<g ref="char:EOLhyphen"/>mon Law expreſly; and he proceeds to ſhew the incon<g ref="char:EOLhyphen"/>veniencies and miſchiefs thereof, by fearful examples; to which Learned Author I refer your Lordſhips.<note place="margin">Cap. <hi>22.</hi>
+                     </note>
+                  </p>
+                  <p>It is againſt <hi>Mag. Charta,</hi>
+                     <note place="margin">Cap. <hi>29.</hi>
+                     </note> which ſays, <hi>Nullus liber ho<g ref="char:EOLhyphen"/>mo capiatur, vel Impriſonetur, &amp;c. aut aliquo modo de<g ref="char:EOLhyphen"/>ſtruatur, nec ſuper eum ibimus nec ſuper eum mittemus niſi per legale Judicium Parium ſuorum vel per Legem Terrae.</hi> And accordingly all the Ancient Authors are againſt the inflicting pains and tortures upon Priſoners, before or af<g ref="char:EOLhyphen"/>ter Attainder,<note place="margin">Co. <hi>3.</hi> Inſt. f. <hi>35.</hi>
+                     </note> but ſuch as anſwer the Judgment.</p>
+                  <p>
+                     <hi>John Holland,</hi> Earl of <hi>Huntingdon,</hi> was by King <hi>H.</hi> 6. created Duke of <hi>Exeter,</hi> and <hi>A.</hi> 26. <hi>H.</hi> 6. the King
+<pb n="25" facs="tcp:60828:13"/>granted to him the Office of the Conſtableſhip of the <hi>Tower</hi> of <hi>London.</hi> He and <hi>William de la Poole,</hi> Duke of <hi>Suffolk,</hi> with ſome others, intended to have brought in the Civil Laws; and for a beginning of the ſame, the Duke of <hi>Exeter</hi> firſt brought into the <hi>Tower</hi> the Rack, or Brake, allowed in many caſes by the Civil Law; and for that reaſon it was called the Duke of <hi>Exeter</hi>'s Daughter.</p>
+               </div>
+            </div>
+            <div n="12" type="query">
+               <head>QUERY XII.</head>
+               <p>Whether the King, under the Great Seal, may command all Proceſs in Criminal Cauſes to ceaſe?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>We find (ſays <hi>Coke</hi>) a Diſcharge of further proceed<g ref="char:EOLhyphen"/>ing, directed to the <hi>Judges</hi> of the Court, <hi>&amp;c.</hi> (not by way of pardoning the offence) but by the King's ac<g ref="char:EOLhyphen"/>knowledgment, under the Great Seal, of the Parties Innocence, with Commandment to the <hi>Judges,</hi> that in the former proceedings they ſhall altogether ſurceaſe; whereupon the Court will award, that the Party ſhall go <hi>ſine Die,</hi> and that there ſhall be no further proceed<g ref="char:EOLhyphen"/>ings againſt him. <hi>William de Melton,</hi> Archbiſhop of <hi>York,</hi> was accuſed in the <hi>King</hi>'s-<hi>Bench, coram Rege &amp; Concilio ſuo in Anno</hi> 3. <hi>Ed.</hi> 3. for adherency to <hi>Edmond</hi> Earl of <hi>Kent</hi> in his Treaſons; whereunto the Arch-Bi<g ref="char:EOLhyphen"/>ſhop pleaded <hi>Not Guilty;</hi> and after two Writs of <hi>Ve<g ref="char:EOLhyphen"/>nire Facias</hi> awarded, the King directed his Writ under the Great Seal to the Judges of the <hi>King</hi>'s-<hi>Bench,</hi> to this effect.</p>
+                  <p>
+                     <hi>Licet Venerabilis Pater</hi> Willielmus <hi>Archiepiſcopus E<g ref="char:EOLhyphen"/>bor.</hi>
+                     <pb n="26" facs="tcp:60828:14"/>Stephanus London <hi>Epiſcopus per Diverſa Brevia No<g ref="char:EOLhyphen"/>ſtra coram Nobis ad ſect am Naſtram Implacitentur de eo, quod ipſi</hi> Edmundo <hi>Comiti Cantiae adhaſiſſe debuerant, quia tamen praedict. Archiepiſcopus &amp; Epiſcopus de adhae<g ref="char:EOLhyphen"/>ſione praedicta omnino Immunes reputamus, Vobis Manda<g ref="char:EOLhyphen"/>mus quod Platitis praedict is coram Nobis ulterius tenend. omnino ſuperfedeatis Teſte meipſo, &amp;c.</hi> The Award of the Court hereupon is very obſervable: Viz. <hi>Cujus Bre<g ref="char:EOLhyphen"/>vis praetextu, conſideratum eſt, quod praedictus Archiepiſ<g ref="char:EOLhyphen"/>copus eat inde ſine die, &amp;c. &amp; ulterius non procedatur verſus eum.</hi>
+                  </p>
+                  <p>
+                     <hi>Stephen Graveſend,</hi>
+                     <note place="margin">Paſch. <hi>4.</hi> E. <hi>3.</hi> Rol. <hi>5.3.</hi>
+                     </note> Biſhop of <hi>London,</hi> was charged with the ſame offence in Parliament, <hi>A.</hi> 3. <hi>E.</hi> 3. whence, by Order of Parliament, he was referred to the <hi>King</hi>'s-<hi>Bench</hi> to be tryed, where he pleaded <hi>Not Guilty,</hi> and af<g ref="char:EOLhyphen"/>ter was diſcharg'd, as the Arch-Biſhop. It may be thought, that accepting the Pardon, might be an impli<g ref="char:EOLhyphen"/>cation of their ſault, and therefore it run in a new ſtrain; but no man that is well advis'd, ſays the great Oracle of the Law, will refuſe God's or the King's Pardon; for in the King's diſpleaſure there is death, ſays the Holy Writ; and who knows how often he offends, and conſequently ſtands in need of it. But how far this Branch of the Prerogative may be extended, and what qualifications it may admit, belongs not to a private man to determine.</p>
+               </div>
+            </div>
+            <div n="13" type="query">
+               <head>QUERY XIII.</head>
+               <p>Whether a Perſon can be Attainted of High-Treaſon by general words?</p>
+               <div type="solution">
+                  <pb n="27" facs="tcp:60828:14"/>
+                  <head>SOL.</head>
+                  <p>Where by due courſe of Law a man cannot be At<g ref="char:EOLhyphen"/>tainted of High-Treaſon, unleſs the Law fore-judge the offence ſuch, he ought not to be Attainted by general words, by Authority of Parliament, (as ſometime hath been uſed) but the Treaſon ought to be ſpecially ex<g ref="char:EOLhyphen"/>preſſed, ſeeing that the Court of Parliament is the Higheſt and moſt Honourable Court of Juſtice, and ought to give Example to the Inferiour, <hi>Magis Exemplis quam praeceptis ducimur.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="14" type="query">
+               <head>QUERY XIV.</head>
+               <p>Whether a Subject of one Kingdom guilty of Treaſon, flying into another Kingdom, ought to be remitted to his own Soveraign?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>It is holden, and ſo it hath been reſolved, that divi<g ref="char:EOLhyphen"/>ded Kingdoms, under ſeveral Kings in League one with another, are Sanctuaries for Servants or Subjects flying for ſafety; and upon demand, are not by the Laws and Liberties of Kingdoms to be delivered: And this Opi<g ref="char:EOLhyphen"/>nion ſeems grounded upon the Law in <hi>Dout. c.</hi> 23. <hi>v.</hi> 15. <hi>Thou ſhalt not deliver unto his Maſter the Servant which is eſcaped from his Maſter unto thee.</hi>
+                  </p>
+                  <p>When the Lord <hi>Paget</hi> and <hi>Arundel</hi> came into <hi>France</hi> Sir <hi>Edward Stafford.</hi>
+                     <note place="margin">Camb. El. <hi>1584.</hi>
+                     </note> Queen <hi>Eliz.</hi> Ambaſſadour there, di<g ref="char:EOLhyphen"/>ligently obſerved them, yet could by no means diſcover
+<pb n="28" facs="tcp:60828:15"/>what they attempted; he deſir'd nevertheleſs of the <hi>French</hi> King, that they, with <hi>Morgan,</hi> and other <hi>Engliſh,</hi> who were practiſing againſt their Prince and Country, might be removed out of <hi>France:</hi> To which he recei<g ref="char:EOLhyphen"/>ved this anſwer, <hi>That if they attempted any thing in</hi> France, <hi>the King would puniſh them according to Law, That all Kingdoms were free for Fugitives; and that it was the great concernment of Kings to maintain every one the Priviledges of his own Kingdom: That Queen</hi> E<g ref="char:EOLhyphen"/>liz. <hi>had not long ſince received into her Kingdom</hi> Montgo<g ref="char:EOLhyphen"/>mery, <hi>the Prince of</hi> Conde, <hi>and others of the</hi> French <hi>Na<g ref="char:EOLhyphen"/>tion; and that</hi> Sagury, <hi>the King of</hi> Navarr's <hi>Embaſſa<g ref="char:EOLhyphen"/>dour, was in</hi> England <hi>at this very time, practiſing to move new troubles againſt the</hi> French <hi>King.</hi>
+                  </p>
+                  <p>King <hi>H.</hi> 8. in the 28th year of his Reign, being in League with the <hi>French</hi> King, and in Enmity with the Pope, who was in League likewiſe with <hi>France,</hi> and had ſent Cardinal <hi>Poole</hi> Embaſſadour to the <hi>French</hi> King, of whom K. <hi>H.</hi> 8. demanded the ſaid Cardinal, being his Subject, and Attainted of Treaſon; and to that end cau<g ref="char:EOLhyphen"/>ſed a Treatiſe to be publiſht, that it ought to be done <hi>Jure Gentium, ſed non praevaluit.</hi>
+                  </p>
+                  <p>
+                     <hi>Ferdinando,</hi> King of <hi>Spain,</hi> upon requeſt made by <hi>H.</hi> 7. to have <hi>Edmond de la Poole,</hi> Earl of <hi>Suffolk,</hi> At<g ref="char:EOLhyphen"/>tainted of High-Treaſon by Parliament, <hi>A.</hi> 19. <hi>H.</hi> 7. at firſt intending to obſerve the Priviledge and Liberty of Kings, in protecting ſuch as came to him for ſuccour and protection, delivered him not; yet in the end, up<g ref="char:EOLhyphen"/>on the earneſt requeſt of the King, and his promiſe not to put him to death, he cauſed the ſaid Earl to be de<g ref="char:EOLhyphen"/>livered up to the King, who kept him in Priſon, and
+<pb n="29" facs="tcp:60828:15"/>conſtruing his promiſe to be but perſonal, commanded his Son <hi>Henry</hi> after his death to execute him; which he cauſed to be done in the fifth year of his Reign.</p>
+                  <p>I ſhall add one more Example of a Remiſſion out of Zouch.<note place="margin">Treat. de Judicio in<g ref="char:EOLhyphen"/>ter Gentes.</note> 
+                     <hi>Cum quidam Seywardus Scotus, qui Mariam Scotorum Reginam veneno tollere conatus eſt, in Anglia deprehenderetur, Ed. Sextus Rex Angliae eum in manus Regis Galliae tradidit, ut debito ſupplicio Remitteretur, quod Nonnullis diſplicuit, quia etſi ratio ſuadeat, ut qui in Patria deliquit, in Patria Puniatur, aliter tamen de con<g ref="char:EOLhyphen"/>ſuetudine, quod Remiſſionem uſurpatum eſt.</hi>
+                  </p>
+                  <p>Having now run thorough the ſeveral <hi>Query</hi>'s, which your <hi>Lordſhips</hi> have thought fit to propoſe; I Shall venture to ſet one ſtep further, and ſtart <hi>A<g ref="char:EOLhyphen"/>nother</hi> of my <hi>Own;</hi> with ſome Offers toward the Solution of which, I will make an end, <hi>Viz.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="15" type="query">
+               <head>QUERY XV.</head>
+               <p>Whether in any Caſe it be Lawful for Subjects to Oppoſe their Prince?</p>
+               <div type="solution">
+                  <head>SOL.</head>
+                  <p>It muſt be reſolv'd in the <hi>Negative:</hi> And that in <hi>any</hi> Caſe, or upon <hi>any</hi> Pretence whatſoever, it is ut<g ref="char:EOLhyphen"/>terly unlawful for <hi>Subjects,</hi> joyntly or ſingly; col<g ref="char:EOLhyphen"/>lectively, or repreſentatively, to make any violent <hi>Op<g ref="char:EOLhyphen"/>poſition</hi> againſt their <hi>Soveraign;</hi> or to <hi>Reſiſt</hi> him ei<g ref="char:EOLhyphen"/>ther in an Offenſive or a deſenſive way. This <hi>Aſ<g ref="char:EOLhyphen"/>ſertion</hi> you will find to be a <hi>Truth,</hi> that is Conſonant to <hi>Holy Writ, Reverend Antiquity, Sound Reaſon,</hi> and
+<pb n="30" facs="tcp:60828:16"/>to the <hi>Municipal Laws</hi> of the <hi>Land;</hi> all the Sophiſtries and Argumentations, that Seditious and corrupted men are able to produce to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+                  <p>I. To begin with <hi>Holy Scripture.</hi> It is clear from <hi>Deut.</hi> o. 17. v. 12. which commands the <hi>Iſraelites</hi> to <hi>put away evil from amongſt</hi> them, by bringing to Publique Juſtice all ſuch Mutinous and Preſumpti<g ref="char:EOLhyphen"/>ous perſons, as refus'd to <hi>Obey</hi> the <hi>High Prieſt</hi> and the <hi>Judge;</hi> that God impoſed an Obligation, even upon his own <hi>People,</hi> not to <hi>Reſiſt</hi> the <hi>Supreme Ma<g ref="char:EOLhyphen"/>giſtrate.</hi> And <hi>v.</hi> 13. makes the Reaſon of this <hi>Se<g ref="char:EOLhyphen"/>verity</hi> to be, to preſerve the People from being Poy<g ref="char:EOLhyphen"/>ſon'd in then <hi>Allegiance</hi> by the Malignity of ſuch <hi>Examples:</hi> That <hi>all the People</hi> (under what Notion or Qualification ſoever), <hi>may Hear and fear, and do no more preſumptuouſly.</hi> The ſame expreſs Warrant of the <hi>Word,</hi> (and to the ſelf-ſame purpoſe) there is in <hi>Joſhua,</hi> C. 1. v. 18. <hi>Whoſoever he be</hi> (ſays the <hi>Al<g ref="char:EOLhyphen"/>mighty</hi> ſpeaking to him) <hi>that doth rebel againſt thy Commandment, and will not harken to thy words, in all that thou commandeſt him, he ſhall be put to death. Saul</hi> is generally condemned for perſecuting <hi>David,</hi> and attempting upon his Life: And yet though <hi>Da<g ref="char:EOLhyphen"/>vid</hi> had him twice at his mercy, he was not to be prevail'd upon to do him any Harm:<note place="margin">
+                        <hi>1</hi> Sam c. <hi>24.</hi> v. <hi>6. and</hi> C. <hi>26.</hi> v. <hi>11.</hi>
+                     </note> 
+                     <hi>For who</hi> (ſays he) <hi>can lay his hand upon</hi> (who can touch, who can ſtretch forth his hand againſt) <hi>the Lords Anointed, and be Guilvleſs?</hi> Now the <hi>Signification</hi> of the <hi>Scrip<g ref="char:EOLhyphen"/>ture phraſe</hi> [<hi>Touch,</hi> or <hi>ſtretch forth the hand againſt the Lords Anointed</hi>] is of a Large Extent: And the Guilt of this Horrid <hi>Crime</hi> may be incurr'd either by <hi>lifting up our heels in ſcorn</hi> againſt our <hi>King;</hi>
+                     <note place="margin">Pſal. <hi>41.</hi> v <hi>9.</hi>
+                     </note> By ta<g ref="char:EOLhyphen"/>king
+<pb n="31" facs="tcp:60828:16"/>up Arms in our own defence, for <hi>whoſoever Re<g ref="char:EOLhyphen"/>ſiſteth the</hi> Power, <hi>Reſiſteth the Ordinance of God;</hi>
+                     <note place="margin">Rom. <hi>13.</hi>
+                     </note> By not bringing to light ſuch Traiterous Conſpira<g ref="char:EOLhyphen"/>cies as we know to be forming againſt him;<note place="margin">Lev. <hi>5.</hi>
+                     </note> By not endeavouring to defend him, when we ſee him in danger, for <hi>Qui non vetat peccare, cum poſſit, jubet;</hi> By ſtriking at his Crown, uſurping upon his Prero<g ref="char:EOLhyphen"/>gative, or depriving him of his Revenue;<note place="margin">Jer. <hi>18.</hi> v. <hi>18</hi>
+                     </note> By <hi>Speak<g ref="char:EOLhyphen"/>ing</hi> or even <hi>Thinking</hi> evil of him; for as the Tongue can ſtrike without a Hand, ſo the Heart can curſe without a Tongue: Or (in a Word) by any ſort of indignity or out-rage offer'd either to his <hi>Autho<g ref="char:EOLhyphen"/>rity,</hi> or <hi>Perſon.</hi> But to proceed.</p>
+                  <p>Doth not Saint <hi>Paul</hi> enjoyn that <hi>every Soul be Sub<g ref="char:EOLhyphen"/>ject to the Higher Powers; for there is no Power but of God; and they that Reſiſt ſhall receive to them<g ref="char:EOLhyphen"/>ſelves Damnation?</hi> Nay, and doth not Saint <hi>Peter</hi> alſo inculcate a Patient Toleration of injuries,<note place="margin">1 <hi>Pet.</hi> 2. <hi>v.</hi> 19.20, 21, 22.</note> and recom<g ref="char:EOLhyphen"/>mend unto our imitation the <hi>Example</hi> of our Bleſſed <hi>Saviour, who when he was reviled, reviled not again, when he ſuffered he threaten'd not; but referr'd the Vengeance to him that judgeth Righteouſly.</hi> If ever man had juſt Cauſe to <hi>Reſist,</hi> then had he; yet would he not do it, but check'd Saint <hi>Peters</hi> forwardneſs that way with a, <hi>Whoſo taketh up the Sword,</hi>
+                     <note place="margin">Mat. <hi>26.</hi> v. <hi>52.</hi>
+                     </note> 
+                     <hi>ſhall periſh by the Sword.</hi> We find in the <hi>Creed</hi> that <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate</hi> is Recorded by the <hi>Holy Ghoſt</hi> (which in<g ref="char:EOLhyphen"/>fluenced the <hi>Church</hi> in the compoſing of it) this now was certainly done for our <hi>Edification,</hi> and to inſinu<g ref="char:EOLhyphen"/>ate, that as we tender our Salvation by our Faith in <hi>Chriſt,</hi> we muſt be careful of paying a <hi>Chearful</hi> Obedience to the <hi>Lawful</hi> Commands of the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate,</hi> and to ſubmit humbly, and <hi>Suffering,</hi> to
+<pb n="32" facs="tcp:60828:17"/>thoſe that are <hi>otherwiſe.</hi> And this <hi>Obligation</hi> con<g ref="char:EOLhyphen"/>tinues, even though the <hi>Prince</hi> ſhould be a <hi>Heathen,</hi> and the <hi>Cauſe</hi> we ſmart for, <hi>Chriſt</hi> and his <hi>Church.</hi>
+                  </p>
+                  <p>II. As to <hi>Reverend Antiquity</hi> Saint <hi>Ambroſe</hi> upon the Point of <hi>Non-Reſiſtance,</hi> diſcourſes to this effect; <hi>I have not ſo learn'd Chriſt,</hi> (ſays he) <hi>as to ſeek by force to oppoſe Authority;</hi> I <hi>can mourn and Lament; but for Other</hi> Reſiſtance I <hi>neither will nor ought to make any.</hi> Saint <hi>Cyprian</hi> ſpeaks to the ſame purpoſe; <hi>It is out of a Principle of Conſcience</hi> (ſays he) <hi>that none of us make any Oppoſition, when we are unjuſtly Seiz'd upon, or ſtudy a Revenge upon our Tormentors; for the Numerouſneſs of our</hi> Party <hi>were otherwiſe ſufficient to bear us out in ſuch a Deſign.</hi> And ſo does <hi>Tertul<g ref="char:EOLhyphen"/>lian.</hi> 
+                     <q>We are not (ſays he) <hi>deſpoyl'd</hi> of our Goods, they are only <hi>Sequeſtred</hi> for our benefit, and en<g ref="char:EOLhyphen"/>truſted in ſafe hands; God keeps them for our uſe, and will return them with ample Encreaſe. If you abſtain from <hi>Fighting,</hi> he will Eſpouſe your Quarrel; and queſtion not but your Enemies will have the worſt on't, for your <hi>Wounds</hi> will <hi>Save</hi> you, and if you fall <hi>Martyrs</hi> you will riſe <hi>Saints.</hi> What cannot our ſufferings bring about? They make even God himſelf our <hi>Debtor;</hi> he Owes us <hi>Heaven</hi> for our ſelves, and he owes <hi>Hell</hi> for our Enemies: But yet we breath our Souls in prayer that he may be entreated not to pay This.</q>
+                  </p>
+                  <p>What <hi>Example</hi> now can there be more <hi>Glorious</hi> or more <hi>Inſtructive,</hi> then that of the <hi>Theban Legion,</hi> recorded in <hi>Eccleſiaſtical Story?</hi> The Emperour <hi>Maxi<g ref="char:EOLhyphen"/>minian</hi> commanding his Army to offer Sacrifice to <hi>Falſe Gods,</hi> this <hi>Band</hi> (conſiſting of about 7000 men)
+<pb n="33" facs="tcp:60828:17"/>remov'd their Quarters, to the end that they might avoid giving offence; but yet he preſſes them to bear a part in this Diabolical ſervice, and upon their humble refuſal puts them forthwith to a <hi>Decima<g ref="char:EOLhyphen"/>tion,</hi> which they chearſthy ſubmit unto, praying fut their Murtherers: The <hi>Tyrant</hi> would not yet be ſo<g ref="char:EOLhyphen"/>tisfied, but renew'd his Commands to the Remainder of them, and finding them ſtill to continue Reſolute rather to die than to diſobey God, he butcher'd them all, without the leaſt Reſiſtance on their part. This was truly to <hi>Confeſs</hi> him that was led as a ſheep to the Slaughter! Nay ſo very Fruitful are the Antient <hi>Fathers</hi> in <hi>Inſtances</hi> of this quality, that it would be but Superfluous to recount any more of them; the Ge<g ref="char:EOLhyphen"/>neral Practice of the Primitive Chriſtians being ſo e<g ref="char:EOLhyphen"/>vident in this point, that the greateſt <hi>Sticklers</hi> for that <hi>ſin of Witchcraft, Rebellion,</hi> have not the Con<g ref="char:EOLhyphen"/>fidence to deny it.</p>
+                  <p>III. That a <hi>Liberty</hi> to <hi>Reſiſt</hi> thoſe in whom the <hi>Law</hi> has plac'd <hi>the Power of the Sword</hi> is Repugnant to <hi>Sound Reaſon, I</hi> ſhall endeavour to make out by the following Arguments.</p>
+                  <p n="1">1. Such a <hi>Licenſe</hi> to Subjects againſt their Rulers, is deſtructive of the very Nature of <hi>Government,</hi> and of <hi>Humane Society;</hi> for it diſſolves the ſinews of the <hi>State,</hi> and ſplits it into as many Factions as it has Enemies. And it is impoſſible to conceive <hi>Two</hi> E<g ref="char:EOLhyphen"/>qual <hi>Supremacies</hi> of Power in the <hi>Nation,</hi> and yet the <hi>Kingdome</hi> to remaine <hi>One.</hi> For this it is that diſtin<g ref="char:EOLhyphen"/>guiſhes <hi>England, France, Spain,</hi> and all other <hi>Indepen<g ref="char:EOLhyphen"/>dent Kingdomes</hi> one from another. But then it is Childiſh to Fancy the <hi>Policy</hi> of any Monarchy (much
+<pb n="34" facs="tcp:60828:18"/>leſs of our own) to be ſo groſly defective, as to be the Author of its own ruine, by dividing the <hi>State</hi> Legally againſt it ſelf. So that to take up Arms without or againſt <hi>Authority,</hi> is down right <hi>Rebel<g ref="char:EOLhyphen"/>lion,</hi> and the Conſequence <hi>Murther</hi> and <hi>Rapine.</hi>
+                  </p>
+                  <p n="2">2. It is both Reaſonable, and neceſſary, that all <hi>Governments</hi> ſhould have a Supereminent, Coercive <hi>Power</hi> over <hi>Particular</hi> Perſons; for otherwiſe a <hi>City</hi> would immediately be hurry'd into an <hi>Anarchy,</hi> and that which ought to be <hi>One</hi> Entire Body, become ſo many <hi>Independnet</hi> men.</p>
+                  <p n="3">3. That which to <hi>One Private</hi> Perſon is due, as a <hi>Man,</hi> the ſame is alſo due to <hi>Another;</hi> and if <hi>I</hi> may aſſume to my ſelf a power of judging when to <hi>Re<g ref="char:EOLhyphen"/>ſiſt</hi> my <hi>Prince,</hi> every private man may do ſo too. Now what Peace, what <hi>Society</hi> can there be hop'd for, where every one is at freedom to diſcharge himſelf from the Obligation of all <hi>Humane Laws,</hi> and to oppoſe them at pleaſure? Or what <hi>Obedience</hi> can conſiſt with ſuch <hi>Reſiſtance?</hi> Nor will ſuch <hi>Li<g ref="char:EOLhyphen"/>bertines</hi> know where to ſtop; for it is uſual for them to fall foul upon all ſuch as have a deeper ſenſe of <hi>Honeſty</hi> and <hi>Allegiance</hi> than themſelves. And what <hi>Law</hi> of <hi>God</hi> or <hi>Man</hi> was ever heard of, that ap<g ref="char:EOLhyphen"/>prov'd of my Murthering, a Loyal man becauſe I my ſelf am a <hi>Rebel?</hi> Beſide that this Lewd <hi>Opinion</hi> Equally wounds the very <hi>Aſſertors</hi> of it; for any body may be allow'd to do That to <hi>Them,</hi> which they have done to their Rightful Prince and his Faithful Sub<g ref="char:EOLhyphen"/>jects.</p>
+                  <p n="4">4. Now Touching the <hi>Muncipal Laws</hi> of the <hi>Land;</hi>
+                     <pb n="35" facs="tcp:60828:18"/>that this <hi>Reſiſtance</hi> is againſt <hi>Them,</hi>
+                     <note place="margin">Lib. <hi>5.</hi> c. <hi>8.</hi>
+                     </note> I ſhall make it E<g ref="char:EOLhyphen"/>vident. <hi>Bracton</hi> ſays, <hi>Si ab eo (ſcil. Rege) Petatur; cum</hi> Breve <hi>non Currat contra Ipſum, locus erit ſuppli<g ref="char:EOLhyphen"/>cationi, quod factum ſuum Corrigat &amp; Emendat; quod quidem ſi non fecerit ſatis ſufficit ei ad paenam, quod</hi> Do<g ref="char:EOLhyphen"/>minum <hi>Expectet <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ltorem: Nemo quidem de factis ſuis preſumat diſputare, Multo fortius contra factum ſuum ve<g ref="char:EOLhyphen"/>nire.</hi> If a Subject find himſelf agriev'd by the <hi>King,</hi> he is put to his Petition (becauſe no <hi>Writ</hi> can lie againſt him) for Redreſs; which if he will not vouchſafe, it is a ſufficient <hi>Penalty,</hi> that he is to expect Puniſhment from the <hi>Almighty.</hi> No man may preſume to queſtion what <hi>He</hi> does, much leſs to Oppoſe him. <hi>Fleta</hi> concurs with <hi>Bracton</hi> in this point; <hi>Vid. Lib.</hi> 1. <hi>C.</hi> 17. And <hi>Lombard</hi> writes thus, <hi>Nemo Dominum</hi> (ſays he) <hi>judicet, vel judi<g ref="char:EOLhyphen"/>cium proferat ſuper eum cujus Ligius ſit.</hi> So likewiſe the <hi>Statute</hi> of, 25. Ed. 3. c. 2. <hi>de proditionibus,</hi> makes it <hi>Treaſon</hi> to compaſs the <hi>Death</hi> of the <hi>King.</hi> And to what end ſhould theſe or any other <hi>Proviſions</hi> againſt <hi>Treaſon</hi> have been eſtabliſh'd, if <hi>Reſiſtance</hi> were in <hi>Any</hi> Caſe Lawful? Or what does the <hi>Oath of Allegiance</hi> ſig<g ref="char:EOLhyphen"/>nify, if the people may take up <hi>Arms</hi> againſt their <hi>Prince</hi> at pleaſure? The <hi>Form</hi> of it runs thus. <hi>You ſhall ſwear that from this day forward you ſhall be True and Faithful unto our Soveraign Lord King</hi> Charles, <hi>and Truth and Faith ſhall bear of Liſe and Member, and Terrene Ho<g ref="char:EOLhyphen"/>nour; and you ſhall neither know nor hear of any Ill or Dammage intended unto him, that you ſhall not defend,</hi> &amp;c. <hi>My Lord Coke</hi> comments upon it, that <hi>the Subject and Effect of this Oath is due by the Law of Nature, the Form and Addition is, ex proviſione Hominis.</hi> To Con<g ref="char:EOLhyphen"/>clude, the Famous Biſhop <hi>Merks</hi> is Poſitive, That <hi>a King by Lineal ſucceſſion, being Lawfully inveſted, cannot upon Imputation either of Negligence or Tyranny be Op<g ref="char:EOLhyphen"/>poſed,
+<pb n="36" facs="tcp:60828:19"/>or Depoſed by, his own Subjects.</hi>
+                  </p>
+                  <p>Thus having given your Lordſhips a deſcription of the Lord High-Stewards Office, and the manner how a Peer is to be Arraigned before him, with ſuch Solu<g ref="char:EOLhyphen"/>tions to your ſeveral Queries, as I have collected out of the Books of Law and Hiſtory, <hi>I</hi> ſhall conclude all with this Advertiſement;</p>
+                  <p>That the ſureſt way to eſcape both the Guilt and Pu<g ref="char:EOLhyphen"/>niſhment of High-Treaſon, is to <hi>Fear God, and Honour the King.</hi>
+                     <note place="margin">Eccleſ. <hi>13.</hi> v. <hi>28.</hi>
+                     </note> The Counſel given us by the wiſeſt of Kings is worthy to be adverted to. <hi>Think not evil of the King in thy Heart, neither utter it with thy lips, leſt a Bird of the Air carry the voice, and that which hath wings diſcover the matter.</hi> Let us deteſt the Principles be<g ref="char:EOLhyphen"/>liev'd and practis'd by thoſe Audacious Violators of Royal Majeſty, the <hi>Spawn</hi> of <hi>Loyola,</hi> and keep faſt to the Doctrine of our own Church, which poſitively Aſſerts, That the ſacred Bond of Subjects, in Obedience to their Soveraign, is inviolable, and cannot be diſſolved, either upon the account of ſuppoſed crimes in the per<g ref="char:EOLhyphen"/>ſon of the Prince, as Tyranny, Infidelity, Hereſie, <hi>&amp;c.</hi> Or by any Acts of the Biſhops of <hi>Rome,</hi> as Diſpenſa<g ref="char:EOLhyphen"/>tions, Excommunications, <hi>&amp;c.</hi>
+                  </p>
+                  <p>It was once ſaid in <hi>Valonger's</hi> Gaſs, that he that is throughly Popiſh, may eaſily be warpt from his Loy<g ref="char:EOLhyphen"/>alty.</p>
+                  <closer>
+                     <salute>My <hi>Lords,</hi>
+                     </salute> I am,
+<signed>Your <hi>Lordſhips In all Juſtice, Ed. S.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>From my Chamber in the Temple,</hi> 
+                        <date>Jan. 17. 1680.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:60828:19"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
